@@ -1,0 +1,7 @@
+package MVC;
+
+public class Mains{
+    public static void main(String[] args) {
+
+    }
+}
